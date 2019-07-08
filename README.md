@@ -11,3 +11,5 @@ a simple game with java script
 ![alt text](https://github.com/aligilan/mench/tree/master/image/preview1.png)
 ![alt text](https://github.com/aligilan/mench/tree/master/image/preview2.png)
 ![alt text](https://github.com/aligilan/mench/tree/master/image/preview3.png)
+
+![Screenshot](image/preview1.png)
