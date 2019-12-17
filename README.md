@@ -1,4 +1,4 @@
-# mench
+# Mench
 A simple game with java script
 
 -change player name.
