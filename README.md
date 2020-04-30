@@ -1,6 +1,8 @@
 # Mench
 A simple game with java script
 
+[Play Game ](https://aligilan.ir/games/mench/index.html)
+
 -change player name.
 -play alone with cpu or play with your friends.
 -chenge difficulty.
